@@ -1,0 +1,31 @@
+.info__facilidades {
+    width: 325px;
+}
+
+.cor__botao-produtos {
+    background: #9353FF;
+}
+
+.cor__botao-produtos:hover {
+    background: #783ae4;
+}
+
+.texto-facilidades {
+    color: #DAFF01;
+}
+
+.icon_color-facilidades {
+    color: #DAFF01;
+}
+
+.form__container {
+    width: 60%;
+}
+
+.btn__form {
+    background: #9353FF;
+}
+
+.btn__form:hover {
+    background: #783ae4;
+}
