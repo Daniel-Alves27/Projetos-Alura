@@ -42,7 +42,7 @@ projeto criado durante o curso de Flexbox da alura
 
 projeto criado durante o curso de Grid layout da alura
 
-![](https://imgur.com/OCxLoXc.png)
+![](https://imgur.com/E9sWaZX.png)
 
 # tecnologias utilizada
 
