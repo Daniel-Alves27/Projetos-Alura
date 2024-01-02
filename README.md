@@ -18,3 +18,22 @@ projeto criado no curso de bootstrap da alura
 # tecnologias utilizada
 
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,css)](https://skillicons.dev)
+
+## Alurinha
+projeto criado no curso "posicione elemento com flexbox" da alura.
+
+![](https://imgur.com/e6TmIHf.png)
+
+# tecnologias utilizada
+
+[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+
+## AluraPlay
+
+projeto criado durante o curso de Flexbox da alura
+
+![](https://imgur.com/8M6Ebbt.png)
+
+# tecnologias utilizada
+
+[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
