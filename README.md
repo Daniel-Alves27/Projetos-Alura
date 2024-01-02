@@ -37,3 +37,13 @@ projeto criado durante o curso de Flexbox da alura
 # tecnologias utilizada
 
 [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+
+## AluraCast
+
+projeto criado durante o curso de Grid layout da alura
+
+![](https://imgur.com/OCxLoXc.png)
+
+# tecnologias utilizada
+
+[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
